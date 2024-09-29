@@ -149,10 +149,34 @@ body {
     align-items: center;
 }
 .ostatnie {
-    background-color: #3882F6;;
-    margin: 20px;
+    background-color: #3882F6;
+    margin: 50px;
     padding: 20px;
     justify-content: space-around;
     align-items: center;
     display: flex;
+    color: #e5e7eb;
+    min-width: 800px;
+    min-height: 150px;
+    border-radius: 13px;
+}
+
+.cipa button {
+    background-color: #3882F6;
+    padding: 7px 25px;
+    margin: 5px;
+    border-radius: 10px;
+    color: #F9FAF8;
+    border: 2px solid #F9FAF8;
+    font-weight: 550;
+    font-size: 13px; 
+}
+
+footer {
+    background-color: #1f2937;
+    text-align: center;
+    color: #F9FAF8;
+    font-size: 16px;
+    padding: 25px;
+    margin: 5px;
 }
